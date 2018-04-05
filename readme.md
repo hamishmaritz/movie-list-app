@@ -4,7 +4,8 @@ GUI Interface using JavaFX to Add, Remove, Search through a Movie List Database.
 Year and Genre, added data from the list is stored in a text file upon close of program and is intitiated once program is 
 re-opened. 
 
-![image](https://imgur.com/uxFGcSY)
+![image](https://i.imgur.com/uxFGcSY.png)
+![image](https://i.imgur.com/EPpAqII.png)
 
 Needs tweaking to filters to search by specifications
 
