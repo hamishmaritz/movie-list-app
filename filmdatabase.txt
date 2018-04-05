@@ -1,0 +1,9 @@
+Title: The Incredibles Director: Brad Bird Year: 2004 Rating: COMEDY
+Title: Goodfellas Director: Martin Scorsese Year: 1990 Rating: ACTION
+Title: Braveheart Director: Mel Gibson Year: 1995 Rating: ACTION
+Title: Se7en Director: David Fincher Year: 1995 Rating: THRILLER
+Title: The Dark Knight Director: Christopher Nolan Year: 2008 Rating: ACTION
+Title: When Harry Met Sally Director: Rob Reiner Year: 1989 Rating: ROMANCE
+Title: Titanic Director: James Cameron Year: 1997 Rating: ROMANCE
+Title: The Matrix Director: Lana Wachowski Year: 1999 Rating: ACTION
+Title: The Lord Of the Rings Director: Peter Jackson Year: 2003 Rating: ACTION
